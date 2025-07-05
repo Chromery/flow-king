@@ -63,7 +63,7 @@ The main smart contract is `KingOfForest.sol`, written in Solidity (v0.8.20). It
 
 ### What is stFLOW?
 
-`stFLOW` is a liquid staking derivative from Increment Finance that represents staked FLOW, earning \~9.75% APR. By using stFLOW for bidding and permanently burning a portion of tokens:
+`stFLOW` is a liquid staking derivative from Increment Finance that represents staked FLOW, earning \~9.75% APY. By using stFLOW for bidding and permanently burning a portion of tokens:
 
 * Flow’s staking liquidity permanently increases.
 * Protocol security strengthens as locked liquidity grows.
