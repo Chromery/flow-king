@@ -27,7 +27,7 @@ Built specifically for the **ETH Global Cannes Hackathon**, King of the Flow uni
 * After each round, the contract requires a manual reset to start a new game (cooldown period applies).
 * The winner of the previous round cannot bid in the immediate next round.
 
-⚔️ **Strategy Tip:** Bid closer to the countdown's end to minimize your exposure. But beware — each bid resets the clock unpredictably!
+⚔️ **Strategy Tip:** Bid closer to the countdown's end to minimize your exposure. But beware, each bid resets the clock unpredictably!
 
 ---
 
