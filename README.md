@@ -1,5 +1,5 @@
-# 👑 King of the Flow
-
+# 👑 King of the Flow - ETHGlobal Cannes Hackathon Submission
+---
 [![Solidity](https://img.shields.io/badge/Solidity-0.8.20-blue)](https://docs.soliditylang.org/)
 [![Flow Blockchain](https://img.shields.io/badge/Blockchain-Flow-brightgreen)](https://developers.flow.com/build/flow)
 [![ETH Global Cannes](https://img.shields.io/badge/ETH%20Global-Cannes%20Hackathon-orange)](https://ethglobal.com/)
